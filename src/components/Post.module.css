@@ -1,0 +1,17 @@
+.post {
+  background: #e6fcf5;
+  width: 525px;
+  text-align: center;
+}
+
+.header {
+  background: #63e6be;
+  border: 0.1rem solid #087f5b;
+  font-size: 1.25rem;
+  font-weight: 300;
+  text-transform: capitalize;
+}
+
+.content {
+  background: #c3fae8;
+}
