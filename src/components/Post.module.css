@@ -1,11 +1,13 @@
 .post {
   background: #e6fcf5;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
   width: 525px;
   text-align: center;
 }
 
 .header {
   background: #63e6be;
+  color: #a61e4d;
   border: 0.1rem solid #087f5b;
   font-size: 1.25rem;
   font-weight: 300;
@@ -13,5 +15,7 @@
 }
 
 .content {
+  padding: 1rem;
   background: #c3fae8;
+  color: #868e96;
 }
